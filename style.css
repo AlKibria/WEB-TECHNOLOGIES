@@ -6,11 +6,11 @@
 .pic{
     margin: 25px 50px 5px 100px;
     height:300px;
-    border-radius: 80px;
+    border-radius: 50%;
     
 }
 .table{
-    border: dashed;
+    border: solid;
 }
 .color{
     color: rgb(26, 133, 255);
